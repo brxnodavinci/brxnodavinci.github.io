@@ -1,5 +1,9 @@
 # Currículo Jornada DEV
 
+![preview](./.github/preview.png)
+
+> Jornada DEV
+
 Projeto construído do evento da EBAC
 
 [🔗 Clique aqui para acessar](https://brxnodavinci.github.io/jornada-dev)
@@ -9,7 +13,7 @@ Projeto construído do evento da EBAC
 
 - HTML
 - CSS
-- Git 
+- Git e Github
 
 ## 🐦 Contato
 <div style="display: inline_block">
